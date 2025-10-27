@@ -1,0 +1,4 @@
+﻿.DS_Store
+*.tmp
+*.log
+kind-config.yaml
